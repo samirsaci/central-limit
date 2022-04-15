@@ -9,8 +9,8 @@
 Lean Six Sigma (LSS) is a method based on a stepwise approach to process improvements.This approach usually follows 5 steps 
 (Define, Measure, Analyze, Improve and Control) for improving existing process problems with unknown causes.
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/central-limit-theorem-for-process-improvement-with-python-483126e33b07),we will see how the Central 
+### Article
+In this [Article](https://www.samirsaci.com/central-limit-theorem-for-process-improvement-with-python/),we will see how the Central 
 Limit Theorem can help us to estimate the workload for the process of returns management using a normal distribution based on the mean and the standard deviation 
 of historical records.
 
