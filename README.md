@@ -54,7 +54,26 @@ Can you estimate the probability of receiving fewer than 30 items per carton eac
 ## Code
 In this repository, you will find all the code used to explain the concepts presented in the article.
 
+### Files
+- `Central Limit Theorem.ipynb` - Jupyter notebook with step-by-step analysis
+- `central_limit_theorem.py` - Standalone Python script
+
+### Getting Started
+```bash
+pip install -r requirements.txt
+python central_limit_theorem.py
+```
+
+### Dependencies
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
+- statsmodels
+
+
 ## About me 🤓
-Senior Supply Chain Engineer with international experience working on Logistics and Transportation operations.\
-Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com)\
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)
+Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/).\
+For more case studies, check my [Personal Website](https://samirsaci.com).
