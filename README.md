@@ -18,6 +18,12 @@ This approach typically follows five steps (Define, Measure, Analyse, Improve, a
 ### Article
 In this [Article](https://www.samirsaci.com/central-limit-theorem-for-process-improvement-with-python/), we will see how the Central Limit Theorem can help us estimate the workload for the process of returns management using a normal distribution based on the mean and the standard deviation of historical records.
 
+### Youtube Video
+Click on the image below to access the video tutorial that explains the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Voaq0l39LuE"><img src="https://i.ytimg.com/vi/Voaq0l39LuE/hqdefault.jpg" alt="Measuring Productivity: A Lean Six Sigma Case Study"></a>
+</div>
+
 ### Scenario
 You are the Inbound Manager of a multinational clothing retail company known for its fast-fashion clothing for men, women, teenagers, and children.
 
@@ -76,6 +82,7 @@ python central_limit_theorem.py
 ## Go further
 
 - **The full write-up, with the reasoning behind the code:** [Central Limit Theorem for Process Improvement with Python](https://www.samirsaci.com/central-limit-theorem-for-process-improvement-with-python/?utm_source=github&utm_medium=readme&utm_campaign=central-limit)
+- **The video:** [Measuring Productivity: A Lean Six Sigma Case Study](https://youtu.be/Voaq0l39LuE)
 - **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=central-limit) has lessons on lean six sigma and the statistics quizzes, free and in the browser.
 - **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=central-limit)
 
